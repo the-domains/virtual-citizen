@@ -1,0 +1,14 @@
+layout_spectrum: 0.5108832851983607
+typography_spectrum: 0.420281620696187
+color:
+  brandStrength: 0.6596244839020073
+  lightness: 0.1037478435318917
+  saturation: 0.6949345848988742
+  rhythmicContrast: 0.635013904189691
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: Virtual Citizen
