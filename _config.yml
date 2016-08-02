@@ -6,9 +6,10 @@ color:
   saturation: 0.6949345848988742
   rhythmicContrast: 0.635013904189691
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: Virtual Citizen
+title: Let's Get Virtual.
